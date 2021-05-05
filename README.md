@@ -1,6 +1,6 @@
 # Insurance Claim Prediction
 
-<img title="Porto Seguro" src="img/porto-seguro-logo-1-3.png" alt="Porto Seguro" align="center" height="100px">
+<img title="Porto Seguro" src="img/porto-seguro-logo-1-3.png" alt="Porto Seguro" align="center" height="80px">
 
 ## Description
 
