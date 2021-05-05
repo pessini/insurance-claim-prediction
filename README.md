@@ -1,6 +1,6 @@
 # Insurance Claim Prediction
 
-<img title="Porto Seguro" src="img/porto-seguro-logo-1-3.png" alt="Porto Seguro" align="center" height="120px">
+<img title="Porto Seguro" src="img/porto-seguro-logo-1.png" alt="Porto Seguro" align="center" height="100px">
 
 ## Description
 
@@ -9,3 +9,5 @@
 A key challenge faced by all major insurers is, when it comes to car insurance, how to address fairness towards good drivers and try not to penalize those who have a good driving history on account of a few bad drivers. Inaccuracies in car insurance claim predictions usually raise its cost for good drivers and reduce the price for bad ones.
 
 In this [competition](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/), the challenge is to build a model that predicts the probability that a car insurance policyholder will file a claim next year.
+
+## Machine Learning
