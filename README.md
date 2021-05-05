@@ -1,6 +1,6 @@
 # Insurance Claim Prediction
 
-<img title="Porto Seguro" src="img/porto-seguro-logo-1.png" alt="Porto Seguro" align="center" height="100px">
+<img title="Porto Seguro" src="img/porto-seguro-logo-1-3.png" alt="Porto Seguro" align="center" height="100px">
 
 ## Description
 
@@ -11,3 +11,10 @@ A key challenge faced by all major insurers is, when it comes to car insurance, 
 In this [competition](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/), the challenge is to build a model that predicts the probability that a car insurance policyholder will file a claim next year.
 
 ## Machine Learning
+
+The Notebook with full code can be visualized as a [GitHub Page](https://pessini.github.io/insurance-claim-prediction/).
+
+---
+
+![R version 4.0.2](https://img.shields.io/badge/R%20version-4.0.2-orange)
+[<img src="https://img.shields.io/badge/License-MIT-blue.svg?style=plastic" title="" alt="License" width="82">](https://opensource.org/licenses/MIT)
