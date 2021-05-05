@@ -16,5 +16,5 @@ The Notebook with full code can be visualized as a [GitHub Page](https://pessini
 
 ---
 
-![R version 4.0.2](https://img.shields.io/badge/R%20version-4.0.2-orange)
+![Python version 3.8.5](https://img.shields.io/badge/python-v3.8.5-yellow)
 [<img src="https://img.shields.io/badge/License-MIT-blue.svg?style=plastic" title="" alt="License" width="82">](https://opensource.org/licenses/MIT)
