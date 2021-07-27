@@ -11,6 +11,9 @@
 # Local only folder
 /ignore-folder/
 
+# Conda environment
+/conda-env/
+
 .ipynb_checkpoints
 .virtual_documents
 
